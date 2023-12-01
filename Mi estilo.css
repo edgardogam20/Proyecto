@@ -1,0 +1,30 @@
+nav li {
+    display: inline; 
+    margin-right: 20px;
+}
+nav a:hover {
+    color: #ff9900; 
+}
+body {
+    background-color: #f0f0f0; 
+}
+
+h1 {
+    color: #008080; 
+}
+
+
+h2 {
+    color:firebrick; 
+}
+.lista-fija {
+    position: fixed;
+    top: 0; 
+    left: 0;
+    padding: 10px;
+    list-style: none;
+    margin: 0;
+}
+.centrar-lista {
+    text-align: center;
+  }
